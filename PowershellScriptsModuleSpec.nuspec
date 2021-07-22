@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>PowershellScriptsModule</id>
+    <version>1.0.0</version>
+    <authors>Griffin Rodgers</authors>
+    <owners>Griffin Rodgers</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">GNU GPLv3</license>
+    <projectUrl>https://github.com/griff761/powershell-scripts</projectUrl>
+    <description>Module that contains the scripts written by Griffin Rodgers</description>
+    <releaseNotes>Initial upload</releaseNotes>
+    <copyright>Copyright 2021</copyright>
+    <tags></tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
